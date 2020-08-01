@@ -7,6 +7,6 @@ Para jugarlo, hay que elegir una de las tres opciones que hay para cada pregunta
 En caso de ser correcto se muestra el mensaje de CORRECTO!! (en color verde)
 y para el caso contrario se muestra el mensaje de INCORRECTO!! (color rojo).
 
-Al final de las preguntas se va a mostrar el puntaje acumulado.
+Al finalizar las preguntas se va a mostrar el puntaje acumulado.
 
 El juego está escrito en JavaScript, cuenta con estilos css para tener colores en el index.html
