@@ -1,5 +1,4 @@
 # Juego-de-preguntas-y-respuestas
-Juego de preguntas y respuestas sobre ciencia, desarrollado en javascript.
 
 Este juego de preguntas y respuestas trata sobre algunos temas básicos de geología, química y mecánica cuántica. 
 
