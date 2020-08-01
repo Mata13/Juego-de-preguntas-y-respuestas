@@ -1,0 +1,84 @@
+/*Estilos Genereales*/
+
+*{
+     box-sizing: border-box;
+     text-align: center;
+}
+
+body{
+     background-image: linear-gradient( #bdc3c7, #2c3e50);
+     background-repeat: no-repeat;
+     height: 100vh;
+}
+
+/*estilos a las etiquetas*/
+
+h1{
+     font-family: 'Philosopher', sans-serif;
+     font-size: 40px;
+}
+
+h2{
+     font-family: 'Alegreya Sans', sans-serif;
+     font-weight: bold;
+}
+
+a{
+     font-family: 'Montserrat', sans-serif;
+     font-size: 15px;
+     font-weight: bold;
+}
+
+/*estilos a los div de las preguntas*/
+
+.pregunta{
+     margin-top: 20px;
+}
+
+.pregunta a{
+     text-decoration: none;
+     color: black;
+     border: 1px solid #21e817;
+     padding: 18px;
+     margin: 10px;
+     width: 200px !important;
+     display: inline-block;
+     transition:0.4s;
+     text-align: center;
+}
+
+.pregunta a:hover{
+     background: #000;
+     border: none;
+     border-radius: 10px 10px 10px 10px;
+     box-shadow: -3px 3px 5px -1px rgba(237,226,12,1);
+     transition: 0.4s;
+     color: salmon;
+}
+
+/*esto es para que no se muestren todas las preguntas a iniciar el juego*/
+
+#dos, #tres, #cuatro, #cinco {
+     display: none;
+}
+
+/*esto es para que no se muestren de incio los mensajes de correcto e incorrecto*/
+
+#correcto1, #incorrecto1, #correcto2, #incorrecto2, #correcto3, #incorrecto3, #correcto4, #incorrecto4, #correcto5, #incorrecto5{
+     display: none;
+     font-weight: bold;
+     font-size: 30px;
+     margin-bottom: 40px;
+}
+
+/*Colores en los mensajes*/
+
+#correcto1, #correcto2, #correcto3, #correcto4, #correcto5{
+     color: green;
+}
+
+#incorrecto1, #incorrecto2, #incorrecto3, #incorrecto4, #incorrecto5{
+     color: red;
+}
+
+
