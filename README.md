@@ -59,7 +59,7 @@ Aquí tienes una demostración del juego en acción:
 
 
 ---
-📍 Puedes probar el juego aquí: 🔗 JUGAR AHORA
+📍 Puedes probar el juego aquí: 🔗 [JUGAR AHORA ](https://mata13.github.io/Juego-de-preguntas-y-respuestas/)
 
 
 ---
