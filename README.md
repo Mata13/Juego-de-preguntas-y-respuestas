@@ -55,6 +55,10 @@ Este es un juego interactivo que pone a prueba tus conocimientos en ciencia a tr
 
 Aquí tienes una demostración del juego en acción:
 
+![Juego](proyecto_funcionando.gif)
+
+
+---
 📍 Puedes probar el juego aquí: 🔗 JUGAR AHORA
 
 
